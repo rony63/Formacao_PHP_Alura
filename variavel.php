@@ -5,5 +5,4 @@
   echo $idade ;
   echo "\n";
   
-
 ?>
