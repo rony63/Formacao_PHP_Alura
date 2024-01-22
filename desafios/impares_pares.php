@@ -4,9 +4,9 @@
    echo "======================================================" . PHP_EOL;
 
    // Mostra apenas os números pares
-   for($i = 1; $i <= 12; $i++){
-       if ($i % 2 == 0){
-           echo "#$i" . PHP_EOL;
+   for($p = 1; $p <= 12; $p++){
+       if ($p % 2 == 0){
+           echo "#$p" . PHP_EOL;
        }
    }
 
